@@ -1,0 +1,43 @@
+/* src/Card.css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400&display=swap'); /* Example of a computer-like font */
+
+.card {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
+    margin: 25px;
+    width: 200px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    height: 100%;
+  }
+  
+  .card-content h2 {
+    margin: 0 0 0px;
+    font-size: 1.5em;
+  }
+  
+  .card-content p {
+    margin: 0;
+    color: #555;
+  }
+  .card.computer-font .card-content h2 {
+    font-family: 'Roboto Mono', monospace;
+  }

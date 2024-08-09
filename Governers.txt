@@ -1,0 +1,28 @@
+Andhra Pradesh   ===> S.Abdul Nazeer
+Arunacha Pradesh ===> Kaiwalya Trivikram Parnaik
+Assam            ===> Gulab Chand Kataria
+Bihar            ===> Rajendra Arlekar
+Chattisgarh      ===> Biswabhusan Harichandan
+Goa              ===> P.S.Sreedharan Pillai
+Gujarat          ===> Acharaya Devvrat
+Haryana          ===> Bandaru Dattatreya
+Himachal Pradesh ===> shiv Prasad Shukla
+Jharkhad         ===> C.P.Radhakrishnan
+Karnataka        ===> Thawar Chand Gehlot
+Kerala           ===> Arif Mohammad Khan
+Madhya Pradesh   ===> mangubhai C.Patel
+Maharashtra      ===> Ramesh bais
+Manipur          ===> Anusuiya uikey
+Meghalaya	 ===> Phagu chauhan
+Mizoram          ===> kambhampati Hari Babu
+Nagaland         ===> La. Ganesan
+Odisha           ===> Ragubhar Das
+Panjab           ===> Banwarilal Purohit
+Rajasthan        ===> Kalraj Mishra
+Sikkim           ===> Lakshman Acharya
+TamilNadu        ===> R. N. Babu
+Telangana        ===> Tamilisai Soundararajan
+Tripura          ===> Indrasena Reddy
+Uttar Pradesh    ===> Anandiben patel
+uttarkhand       ===> Gurmit Singh
+West Bengal      ===> C. v. Ananda Bose

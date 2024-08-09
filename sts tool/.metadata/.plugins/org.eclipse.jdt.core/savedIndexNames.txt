@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\Daggupati teja\OneDrive\Desktop\sts tool\.metadata\.plugins\org.eclipse.jdt.core
+777082425.index
+2873922767.index
+1865797976.index
